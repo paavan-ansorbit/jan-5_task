@@ -1,0 +1,20 @@
+.main{
+    justify-content: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+.mainfirsthighlight{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(245, 245, 245);
+    padding-bottom: 1em;
+
+}
+.sofaimg{
+    margin-left: 3em;
+}
